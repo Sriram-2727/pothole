@@ -1,0 +1,12 @@
+names:
+- road-pothole
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: yolo-pothole-detection-e3udj
+  url: https://universe.roboflow.com/sri-ram-dtqzr/yolo-pothole-detection-e3udj/dataset/1
+  version: 1
+  workspace: sri-ram-dtqzr
+test: test/images
+train: train/images
+val: valid/images
